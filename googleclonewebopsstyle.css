@@ -36,6 +36,9 @@ header{
 .navbar ul li a{
     color: black;
 }
+.navbar ul li a{
+    text-decoration: underline;
+}
 .link:hover{
     text-decoration: underline;
 }
